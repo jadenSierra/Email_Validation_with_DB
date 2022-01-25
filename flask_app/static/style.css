@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+input {
+    width:100%;
+}
+.container{
+    margin: auto;
+    padding-top: 4rem;
+    width:700px;
+    height:700px;
+}
+
+.success {
+    background-color: green;
+    margin-bottom: 2rem;
+}
+
+#email_header {
+    text-decoration: underline;
+}
